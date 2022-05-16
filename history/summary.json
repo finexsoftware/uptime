@@ -4,19 +4,19 @@
     "url": "https://www.perzukunft.de/",
     "icon": "https://favicons.githubusercontent.com/www.perzukunft.de",
     "slug": "perzukunft-web-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1111,
-    "timeDay": 912,
-    "timeWeek": 1111,
-    "timeMonth": 1111,
-    "timeYear": 1111,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 1052,
+    "timeDay": 804,
+    "timeWeek": 1052,
+    "timeMonth": 1052,
+    "timeYear": 1052,
     "dailyMinutesDown": {
-      "2022-05-16": 0
+      "2022-05-16": 20
     }
   },
   {
