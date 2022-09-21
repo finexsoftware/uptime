@@ -36,18 +36,19 @@
     "url": "https://finexsoft.com/",
     "icon": "https://favicons.githubusercontent.com/finexsoft.com",
     "slug": "finexsoft-ui",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 698,
     "timeDay": 569,
     "timeWeek": 672,
     "timeMonth": 707,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2022-09-21": 0,
       "2022-06-23": 512,
       "2022-06-22": 1040
     }
