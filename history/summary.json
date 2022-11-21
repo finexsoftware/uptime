@@ -36,9 +36,9 @@
     "url": "https://finexsoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/finexsoft.com.ico",
     "slug": "finexsoft-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
@@ -48,6 +48,7 @@
     "timeMonth": 684,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2022-11-21": 0,
       "2022-09-21": 106,
       "2022-06-23": 512,
       "2022-06-22": 1040
